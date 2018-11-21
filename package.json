@@ -1,6 +1,6 @@
 {
     "name":        "hapi-plugin-websocket",
-    "version":     "1.2.19",
+    "version":     "1.2.20",
     "description": "HAPI plugin for seamless WebSocket integration",
     "keywords":    [ "hapi", "plugin", "websocket" ],
     "main":        "./hapi-plugin-websocket.js",
@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "urijs":                   "1.19.1",
-        "hoek":                    "5.0.2",
+        "hoek":                    "5.0.4",
         "boom":                    "7.1.1",
         "ws":                      "5.1.0",
         "websocket-framed":        "1.0.14"
